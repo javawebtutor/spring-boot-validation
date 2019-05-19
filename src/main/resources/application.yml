@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: spring-boot-validation
+  h2:
+    console:
+      enabled: true
+  jpa:
+    show-sql: true
+  jackson:
+    date-format: yyyy-MM-dd
